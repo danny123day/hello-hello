@@ -14,6 +14,7 @@ head(rfm)
 
 
 rfm$sales[ is.na(rfm$sales) ] #檢查有沒有NA
+#hi
 
 #算R
 date_now = format(Sys.time(), "%Y-%m-%d %H:%M") ;date_now
